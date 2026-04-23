@@ -1,4 +1,6 @@
 # 🌿 Projeto Corpo em 30 Dias — Landing Page
+
+
 ### Mariana Rocha · Nutricionista Esportiva
 
 ## ⚙️ Funcionalidades JavaScript
@@ -29,7 +31,3 @@ A página foi desenvolvida com abordagem **mobile-first** e se adapta a:
 - Google Fonts: [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) + [DM Sans](https://fonts.google.com/specimen/DM+Sans)
 
 ---
-
-## 📞 Suporte
-
-Dúvidas sobre personalização ou hospedagem? Entre em contato com o desenvolvedor responsável pela entrega deste projeto.
